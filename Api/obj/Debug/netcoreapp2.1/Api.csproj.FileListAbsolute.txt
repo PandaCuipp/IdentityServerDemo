@@ -1,0 +1,14 @@
+E:\MyProjects\IdentityServerDemo\IdentityServerDemo\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+E:\MyProjects\IdentityServerDemo\IdentityServerDemo\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+E:\MyProjects\IdentityServerDemo\IdentityServerDemo\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+E:\MyProjects\IdentityServerDemo\IdentityServerDemo\Api\bin\Debug\netcoreapp2.1\Api.dll
+E:\MyProjects\IdentityServerDemo\IdentityServerDemo\Api\bin\Debug\netcoreapp2.1\Api.pdb
+E:\MyProjects\IdentityServerDemo\IdentityServerDemo\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+E:\MyProjects\IdentityServerDemo\IdentityServerDemo\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+E:\MyProjects\IdentityServerDemo\IdentityServerDemo\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+E:\MyProjects\IdentityServerDemo\IdentityServerDemo\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+E:\MyProjects\IdentityServerDemo\IdentityServerDemo\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+E:\MyProjects\IdentityServerDemo\IdentityServerDemo\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+E:\MyProjects\IdentityServerDemo\IdentityServerDemo\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+E:\MyProjects\IdentityServerDemo\IdentityServerDemo\Api\obj\Debug\netcoreapp2.1\Api.dll
+E:\MyProjects\IdentityServerDemo\IdentityServerDemo\Api\obj\Debug\netcoreapp2.1\Api.pdb
