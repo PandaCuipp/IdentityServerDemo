@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "Client\Client.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickstartIdentityServer", "QuickstartIdentityServer\QuickstartIdentityServer.csproj", "{EFBBF7F1-EBC9-40EE-8F43-EC3FB26ADBB8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SingleLoginDemo", "SingleLoginDemo", "{5713E417-978B-41BE-82DA-573734D5C755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityS4", "IdentityS4\IdentityS4.csproj", "{DDA23043-B73F-401C-BF58-D8F94AA7AE9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,9 +31,16 @@ Global
 		{EFBBF7F1-EBC9-40EE-8F43-EC3FB26ADBB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFBBF7F1-EBC9-40EE-8F43-EC3FB26ADBB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFBBF7F1-EBC9-40EE-8F43-EC3FB26ADBB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDA23043-B73F-401C-BF58-D8F94AA7AE9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA23043-B73F-401C-BF58-D8F94AA7AE9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA23043-B73F-401C-BF58-D8F94AA7AE9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA23043-B73F-401C-BF58-D8F94AA7AE9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DDA23043-B73F-401C-BF58-D8F94AA7AE9F} = {5713E417-978B-41BE-82DA-573734D5C755}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C4003BCF-5AA8-4845-B039-7675BFACCA8E}
