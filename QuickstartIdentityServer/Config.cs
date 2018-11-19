@@ -9,6 +9,10 @@ namespace QuickstartIdentityServer
 {
     public class Config
     {
+        /// <summary>
+        /// 返回API资源
+        /// </summary>
+        /// <returns></returns>
         public static IEnumerable<ApiResource> GetApiResources()
         {
             return new List<ApiResource>
@@ -17,8 +21,10 @@ namespace QuickstartIdentityServer
             };
         }
 
+        
         public static IEnumerable<Client> GetClients()
         {
+            
             return new List<Client>
             {
                 new Client

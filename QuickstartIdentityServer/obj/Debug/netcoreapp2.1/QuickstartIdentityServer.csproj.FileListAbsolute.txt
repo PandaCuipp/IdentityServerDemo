@@ -12,3 +12,17 @@ E:\MyProjects\IdentityServerDemo\IdentityServerDemo\QuickstartIdentityServer\bin
 E:\MyProjects\IdentityServerDemo\IdentityServerDemo\QuickstartIdentityServer\obj\Debug\netcoreapp2.1\QuickstartIdentityServer.dll
 E:\MyProjects\IdentityServerDemo\IdentityServerDemo\QuickstartIdentityServer\obj\Debug\netcoreapp2.1\QuickstartIdentityServer.pdb
 E:\MyProjects\IdentityServerDemo\IdentityServerDemo\QuickstartIdentityServer\obj\Debug\netcoreapp2.1\QuickstartIdentityServer.csprojAssemblyReference.cache
+E:\MyProject\IdentityServerDemo\Code\QuickstartIdentityServer\bin\Debug\netcoreapp2.1\QuickstartIdentityServer.deps.json
+E:\MyProject\IdentityServerDemo\Code\QuickstartIdentityServer\bin\Debug\netcoreapp2.1\QuickstartIdentityServer.runtimeconfig.json
+E:\MyProject\IdentityServerDemo\Code\QuickstartIdentityServer\bin\Debug\netcoreapp2.1\QuickstartIdentityServer.runtimeconfig.dev.json
+E:\MyProject\IdentityServerDemo\Code\QuickstartIdentityServer\bin\Debug\netcoreapp2.1\QuickstartIdentityServer.dll
+E:\MyProject\IdentityServerDemo\Code\QuickstartIdentityServer\bin\Debug\netcoreapp2.1\QuickstartIdentityServer.pdb
+E:\MyProject\IdentityServerDemo\Code\QuickstartIdentityServer\obj\Debug\netcoreapp2.1\QuickstartIdentityServer.csprojAssemblyReference.cache
+E:\MyProject\IdentityServerDemo\Code\QuickstartIdentityServer\obj\Debug\netcoreapp2.1\QuickstartIdentityServer.csproj.CoreCompileInputs.cache
+E:\MyProject\IdentityServerDemo\Code\QuickstartIdentityServer\obj\Debug\netcoreapp2.1\QuickstartIdentityServer.RazorAssemblyInfo.cache
+E:\MyProject\IdentityServerDemo\Code\QuickstartIdentityServer\obj\Debug\netcoreapp2.1\QuickstartIdentityServer.RazorAssemblyInfo.cs
+E:\MyProject\IdentityServerDemo\Code\QuickstartIdentityServer\obj\Debug\netcoreapp2.1\QuickstartIdentityServer.AssemblyInfoInputs.cache
+E:\MyProject\IdentityServerDemo\Code\QuickstartIdentityServer\obj\Debug\netcoreapp2.1\QuickstartIdentityServer.AssemblyInfo.cs
+E:\MyProject\IdentityServerDemo\Code\QuickstartIdentityServer\obj\Debug\netcoreapp2.1\QuickstartIdentityServer.RazorTargetAssemblyInfo.cache
+E:\MyProject\IdentityServerDemo\Code\QuickstartIdentityServer\obj\Debug\netcoreapp2.1\QuickstartIdentityServer.dll
+E:\MyProject\IdentityServerDemo\Code\QuickstartIdentityServer\obj\Debug\netcoreapp2.1\QuickstartIdentityServer.pdb

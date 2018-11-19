@@ -1,1 +1,12 @@
 /packages
+/.vs
+/Api/obj
+/Api/bin
+/Client/obj
+/Client/bin
+/ConsoleApp1/obj
+/ConsoleApp1/bin
+/IdentityServerDemo/obj
+/IdentityServerDemo/bin
+/QuickstartIdentityServer/obj
+/QuickstartIdentityServer/bin

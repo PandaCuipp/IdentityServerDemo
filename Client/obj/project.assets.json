@@ -243,10 +243,11 @@
   },
   "libraries": {
     "IdentityModel/3.8.0": {
-      "sha512": "DxAWBSLR72NUeQpbjPUO3Bx3ss/3P8G9pb2T4JZ+pKwu8cgGFanRyr2J/4QJvhD5XWXGizxUhbbtjdkcGmE61g==",
+      "sha512": "0XLQ3hloy0VRXx7HL++jWhpBTQCR4jiYmfLQTW3df65cNwAoIBnN4p3ttWo2IQQPRJizoNvwbFE1ytsKO3jzmw==",
       "type": "package",
       "path": "identitymodel/3.8.0",
       "files": [
+        ".signature.p7s",
         "identitymodel.3.8.0.nupkg.sha512",
         "identitymodel.nuspec",
         "lib/net452/IdentityModel.dll",
@@ -782,11 +783,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MyProjects\\IdentityServerDemo\\IdentityServerDemo\\Client\\Client.csproj",
+      "projectUniqueName": "E:\\MyProject\\IdentityServerDemo\\Code\\Client\\Client.csproj",
       "projectName": "Client",
-      "projectPath": "E:\\MyProjects\\IdentityServerDemo\\IdentityServerDemo\\Client\\Client.csproj",
+      "projectPath": "E:\\MyProject\\IdentityServerDemo\\Code\\Client\\Client.csproj",
       "packagesPath": "C:\\Users\\cuipp\\.nuget\\packages\\",
-      "outputPath": "E:\\MyProjects\\IdentityServerDemo\\IdentityServerDemo\\Client\\obj\\",
+      "outputPath": "E:\\MyProject\\IdentityServerDemo\\Code\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

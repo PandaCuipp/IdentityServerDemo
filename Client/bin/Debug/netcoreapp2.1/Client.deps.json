@@ -53,7 +53,7 @@
     "IdentityModel/3.8.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-DxAWBSLR72NUeQpbjPUO3Bx3ss/3P8G9pb2T4JZ+pKwu8cgGFanRyr2J/4QJvhD5XWXGizxUhbbtjdkcGmE61g==",
+      "sha512": "sha512-0XLQ3hloy0VRXx7HL++jWhpBTQCR4jiYmfLQTW3df65cNwAoIBnN4p3ttWo2IQQPRJizoNvwbFE1ytsKO3jzmw==",
       "path": "identitymodel/3.8.0",
       "hashPath": "identitymodel.3.8.0.nupkg.sha512"
     },
