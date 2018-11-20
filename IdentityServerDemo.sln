@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SingleLoginDemo", "SingleLo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityS4", "IdentityS4\IdentityS4.csproj", "{DDA23043-B73F-401C-BF58-D8F94AA7AE9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcClient", "MvcClient\MvcClient.csproj", "{F804C5EB-2747-4679-8772-B327EC324753}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,12 +37,17 @@ Global
 		{DDA23043-B73F-401C-BF58-D8F94AA7AE9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDA23043-B73F-401C-BF58-D8F94AA7AE9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDA23043-B73F-401C-BF58-D8F94AA7AE9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F804C5EB-2747-4679-8772-B327EC324753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F804C5EB-2747-4679-8772-B327EC324753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F804C5EB-2747-4679-8772-B327EC324753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F804C5EB-2747-4679-8772-B327EC324753}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{DDA23043-B73F-401C-BF58-D8F94AA7AE9F} = {5713E417-978B-41BE-82DA-573734D5C755}
+		{F804C5EB-2747-4679-8772-B327EC324753} = {5713E417-978B-41BE-82DA-573734D5C755}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C4003BCF-5AA8-4845-B039-7675BFACCA8E}

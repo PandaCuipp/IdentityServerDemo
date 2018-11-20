@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using IdentityServer4.Services;
 using IdentityServer4.Stores;
 using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace IdentityS4.Controllers
@@ -61,8 +62,8 @@ namespace IdentityS4.Controllers
                     IsPersistent = true,
                     ExpiresUtc = DateTimeOffset.UtcNow.Add(TimeSpan.FromDays(1))
                 };
-                var claimsIdentity = new ClaimsIdentity(new Claim[] { new Claim(ClaimTypes.Name, user.UserName) }, "Basic");
-                await HttpContext.SignInAsync(user.Id.ToString(), new ClaimsPrincipal(claimsIdentity), props);
+                //var claimsIdentity = new ClaimsIdentity(new Claim[] { new Claim(ClaimTypes.Name, user.UserName) }, "Basic");
+                await HttpContext.SignInAsync(user.Id.ToString(), user.UserName, props);
                 if (returnUrl != null)
                 {
                     return Redirect(returnUrl);

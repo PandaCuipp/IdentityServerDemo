@@ -29,8 +29,8 @@ namespace IdentityS4
                     ClientName = "MVC Client",
                     AllowedGrantTypes = GrantTypes.Implicit,//隐式方式
                     RequireConsent=false,//如果不需要显示否同意授权 页面 这里就设置为false
-                    RedirectUris = { "http://localhost:5002/signin-oidc" },//登录成功后返回的客户端地址
-                    PostLogoutRedirectUris = { "http://localhost:5002/signout-callback-oidc" },//注销登录后返回的客户端地址
+                    RedirectUris = { "http://localhost:5006/signin-oidc" },//登录成功后返回的客户端地址
+                    PostLogoutRedirectUris = { "http://localhost:5006/signout-callback-oidc" },//注销登录后返回的客户端地址
 
                     AllowedScopes =//下面这两个必须要加吧 不太明白啥意思
                     {
